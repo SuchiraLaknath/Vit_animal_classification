@@ -1,0 +1,4 @@
+/Data/
+*/__pycache__/
+.idea
+training/model_save_path/model_01.pt
